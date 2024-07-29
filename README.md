@@ -1,7 +1,7 @@
 To initialize your local repository use
 ---------------------------------------
 
-    git clone https://github.com/byAkagami/local_manifests.git -b addison .repo/local_manifests
+    git clone https://github.com/Dheeraj3031A/local_manifests.git .repo/local_manifests
     
 
 Then to sync up:
