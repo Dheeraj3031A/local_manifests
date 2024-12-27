@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Remotes -->
+    <remote name="gh"
+            fetch="https://github.com"
+            clone-depth="1" />
+ <!--Tree -->
+ <project path="device/xiaomi/beryllium" name="Dheeraj3031A/android_device_xiaomi_beryllium" remote="gh" revision="los" />
