@@ -6,3 +6,4 @@
             clone-depth="1" />
  <!--Tree -->
  <project path="device/xiaomi/beryllium" name="Dheeraj3031A/android_device_xiaomi_beryllium" remote="gh" revision="los" />
+</manifest>
