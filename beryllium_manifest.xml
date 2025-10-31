@@ -5,5 +5,5 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Tree -->
- <project path="device/xiaomi/beryllium" name="Dheeraj3031A/android_device_xiaomi_beryllium" remote="gh" revision="los" />
+ <project path="device/xiaomi/beryllium" name="PocoF1-Resources/android_device_xiaomi_beryllium" remote="gh" revision="Arrow-13.1" />
 </manifest>
